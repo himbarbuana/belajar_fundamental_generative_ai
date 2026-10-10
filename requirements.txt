@@ -1,0 +1,11 @@
+torch
+diffusers
+transformers
+accelerate
+safetensors
+streamlit
+streamlit-drawable-canvas
+pyngrok
+Pillow
+matplotlib
+numpy
